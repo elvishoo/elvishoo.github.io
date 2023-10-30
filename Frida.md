@@ -1,0 +1,2 @@
+disable the USAP
+setprop persist.device_config.runtime_native.usap_pool_enabled false
